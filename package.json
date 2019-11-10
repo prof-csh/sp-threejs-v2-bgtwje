@@ -1,0 +1,10 @@
+{
+  "name": "sp-threejs-v2",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "three": "0.92.0",
+    "@types/three": "0.91.10",
+    "cancelable-promise": "2.4.0"
+  }
+}
